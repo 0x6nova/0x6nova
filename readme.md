@@ -42,7 +42,7 @@ I specialize in building clean, responsive, and efficient apps and websites usin
 
 ## 📫 Let's Connect
 
-- 📩 kenzo.akiyama@example.com  
+- 📩 nove__dev@outlook.com  
 
 I'm always open to collaboration, feedback, and new ideas—feel free to explore my repos and reach out!
 
