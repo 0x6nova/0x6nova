@@ -48,4 +48,21 @@ I'm always open to collaboration, feedback, and new ideas—feel free to explore
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sntk-76&show_icons=true&theme=radical" alt="Sina's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntk-76&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sntk-76&theme=radical" alt="Sina's GitHub Trophies" />
+</p>
+
+---
+
 ⭐️ *If you like what you see, feel free to follow or star a project!*
