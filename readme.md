@@ -48,21 +48,4 @@ I'm always open to collaboration, feedback, and new ideas—feel free to explore
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=t-s-u-k-i&show_icons=true&theme=radical" alt="Sina's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-s-u-k-i&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=t-s-u-k-i&theme=radical" alt="Sina's GitHub Trophies" />
-</p>
-
----
-
 ⭐️ *If you like what you see, feel free to follow or star a project!*
