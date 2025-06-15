@@ -39,13 +39,3 @@ I specialize in building clean, responsive, and efficient apps and websites usin
   `Unity + C#`
 
 ---
-
-## 📫 Let's Connect
-
-- 📩 nove__dev@outlook.com  
-
-I'm always open to collaboration, feedback, and new ideas—feel free to explore my repos and reach out!
-
----
-
-⭐️ *If you like what you see, feel free to follow or star a project!*
