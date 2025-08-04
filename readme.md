@@ -9,7 +9,7 @@ I specialize in building clean, responsive, and efficient apps and websites usin
 ## 🔧 Tech Stack
 
 **Mobile Development**  
-- Swift, Kotlin, Flutter, React Native  
+- Swift, Java/Kotlin, Flutter, React Native  
 - Firebase, SQLite, Realm
 
 **Web Development**  
