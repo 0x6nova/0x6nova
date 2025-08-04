@@ -1,4 +1,4 @@
-# 👋 Hi, I'm tsuki
+# 👋 Hi
 
 🎯 Mobile & Web Developer | Game Dev Enthusiast | Business Systems Builder
 
