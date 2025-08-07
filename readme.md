@@ -2,13 +2,13 @@
 
 ## 🔧 Tech Stack
 
+**Web Development**  
+- HTML5, CSS3, JavaScript, WordPress, React, Next.js, Node.js, PHP
+- REST APIs, GraphQL, MongoDB, MySQL  
+
 **Mobile Development**  
 - Swift, Java/Kotlin, Flutter, React Native  
 - Firebase, SQLite, Realm
-
-**Web Development**  
-- HTML5, CSS3, JavaScript, React, Next.js, Node.js, PHP
-- REST APIs, GraphQL, MongoDB, MySQL  
 
 **Other Tools**  
 - Git, GitHub, VS Code, Figma, Xcode, Android Studio  
