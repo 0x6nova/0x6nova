@@ -1,5 +1,3 @@
-🎯 Mobile & Web Developer | Business Systems Builder
-
 ## 🔧 Tech Stack
 
 **Web Development**  
