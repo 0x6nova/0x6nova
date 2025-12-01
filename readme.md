@@ -12,12 +12,6 @@
 - Git, GitHub, VS Code, Figma, Xcode, Android Studio  
 - Jira, Trello, Notion, Postman, Docker
 
-## 📈 GitHub Stats
-
-<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=0x6nova">
-
-<img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x6nova">
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg" alt="GitHub Contribution Animation">
 </p>
