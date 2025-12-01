@@ -14,9 +14,9 @@
 
 ## 📈 GitHub Stats
 
-<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=0x6nova&show_icons=true&theme=radical&count_private=true">
+<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=0x6nova">
 
-<img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x6nova&exclude_repo=0x6nova.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
+<img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x6nova">
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg" alt="GitHub Contribution Animation">
